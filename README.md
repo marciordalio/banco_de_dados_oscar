@@ -684,6 +684,6 @@ HAVING COUNT(DISTINCT nome_do_indicado) = 2;
 
 
 
-# [Arquivo MySQL Banco de Dados - Oscar](https://github.com/marciordalio/sistema-hospitalar-db-/blob/main/banco_de_dados_MySQL_parte_2)
+# [Arquivo MySQL Banco de Dados - Oscar](https://github.com/marciordalio/banco_de_dados_oscar/blob/main/base_oscar.sql)
 
 
